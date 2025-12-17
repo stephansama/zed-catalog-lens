@@ -1,0 +1,7 @@
+id = "zed-catalog-lens"
+name = "Zed Catalog Lens"
+version = "0.0.1"
+schema_version = 1
+authors = ["Stephan Randle <stephanrandle@hotmail.com>"]
+description = "Extension that allows users to view catalog versions inside of zed"
+repository = "https://github.com/stephansama/zed-catalog-lens"
