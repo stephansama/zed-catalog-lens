@@ -1,5 +1,7 @@
 # Zed Catalog Lens
 
+>[!WARNING] I wanted to create a zed extension to accomplish this however after looking deeper into it i dont believe the extension API is robust enough to support the feature
+
 ## Local dev setup
 
 To run your extension in Zed as you're developing it:
